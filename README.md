@@ -27,5 +27,9 @@ Semantic Segmentation: ViTs can also be used for semantic segmentation tasks, wh
 
 In conclusion, Vision Transformers represent a groundbreaking approach to handling visual data, offering a unique perspective on image understanding and paving the way for innovative advancements in computer vision research and applications.
 
+## Dataset Source
+- [Human Emotion Recognition Dataset on Kaggle]( https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes)
+- All rights and ownership remain with the original dataset publisher.
+
 
 
